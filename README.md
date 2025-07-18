@@ -1,7 +1,7 @@
 # Can-AI-Build-Systems-An-Exploratory-Study-on-Generating-Software-Architecture-With-LLMs
 
 
-This repository contains the chats for our work "Use of Large Language Models in Generating Software Architecture"
+This repository contains the chats for our work "Can AI Build-Systems An Exploratory Study on Generating Software Architecture With LLMs"
 
 There are two main parts to this repository:
 
